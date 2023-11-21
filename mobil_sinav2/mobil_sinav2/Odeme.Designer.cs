@@ -57,28 +57,26 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(547, 316);
+            this.label1.Location = new System.Drawing.Point(482, 362);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(10, 16);
+            this.label1.Size = new System.Drawing.Size(0, 16);
             this.label1.TabIndex = 3;
-            this.label1.Text = "l";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(547, 372);
+            this.label2.Location = new System.Drawing.Point(482, 405);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(10, 16);
+            this.label2.Size = new System.Drawing.Size(0, 16);
             this.label2.TabIndex = 4;
-            this.label2.Text = "l";
             // 
             // listBox2
             // 
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 16;
-            this.listBox2.Location = new System.Drawing.Point(48, 27);
+            this.listBox2.Location = new System.Drawing.Point(33, 27);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(304, 244);
+            this.listBox2.Size = new System.Drawing.Size(304, 212);
             this.listBox2.TabIndex = 5;
             // 
             // Odeme

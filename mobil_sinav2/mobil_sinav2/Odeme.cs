@@ -42,21 +42,21 @@ namespace mobil_sinav2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add($"Masa-1 ");
-            label1.Text = Form1.toplam.ToString();
-            listBox2.Items.Add($"{Form1.toplam}");
-            listBox2.Items.Add($"{Form1.toplam22}");
-            listBox2.Items.Add($"{Form1.toplam33}");
-            listBox2.Items.Add($"{Form1.toplam44}");
-            listBox2.Items.Add($"{Form1.toplam55}");
+
+            label1.Text = (Form1.toplam.ToString());
+            listBox2.Items.Add($"MASA-1 : {Form1.toplam}");
+            listBox2.Items.Add($"MASA-2 : {Form1.toplam22}");
+            listBox2.Items.Add($"MASA-2 : {Form1.toplam33}");
+            listBox2.Items.Add($"MASA-2 : {Form1.toplam44}");
+            listBox2.Items.Add($"MASA-2 : {Form1.toplam55}");
 
             DateTime suankiZaman = DateTime.Now;
             string tarih = suankiZaman.ToShortDateString();
             string saat = suankiZaman.ToShortTimeString();
 
-            label2.Text= "Odeme alinan tarih"+tarih+" - "+ saat;
+            label2.Text= "Odeme alinan tarih "+tarih+" - "+ saat;
             listBox1.Items.Clear();
-            MessageBox.Show("Odendi");
+            MessageBox.Show("Odemeniz Basari Ile Alinmistir Tesekkur Ederiz");
 
         }
 
