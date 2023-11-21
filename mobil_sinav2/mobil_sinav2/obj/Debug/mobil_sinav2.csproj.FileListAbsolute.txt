@@ -1,0 +1,11 @@
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\bin\Debug\mobil_sinav2.exe.config
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\bin\Debug\mobil_sinav2.exe
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\bin\Debug\mobil_sinav2.pdb
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.csproj.AssemblyReference.cache
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.Form1.resources
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.Properties.Resources.resources
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.csproj.GenerateResource.cache
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.csproj.CoreCompileInputs.cache
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.exe
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.pdb
+C:\Users\erens\udemy\mobil_sinav2\mobil_sinav2\obj\Debug\mobil_sinav2.Odeme.resources
